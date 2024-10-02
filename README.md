@@ -2,17 +2,14 @@
 
 # Bienvenue sur mon GitHub!
 
-![Texte dynamique](lien_vers_ton_gif.gif)
-
-Je suis développeur passionné par les technologies modernes. N'hésite pas à explorer mes projets !
 
 
 🔭 I’m currently working on multiple projects .  
 🌱 I’m currently improving my Flutter and Laravel skills.  
-👯 I'm looking for challenging projects that push my limits and enhance my skills
+👯 I'm looking for challenging projects that push my limits and enhance my skills.
 💬 Ask me about anything, I will help if I can.  
 📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/your-linkedin)  
-😄 Pronouns: he/him  
+😄 Pronouns: he/him.
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer! .  
 👨‍ I love real-world problem solving.  
 🫱🏼‍🫲🏾 Connect with me:  
