@@ -1,7 +1,7 @@
 # Hi, I'm PALOUKI Godbless!
 
 # Welcome on my Github
-![](https://github.com/PALOUKI/machin-text)
+![text machin](https://github.com/PALOUKI/machin-text)
 
 
 
