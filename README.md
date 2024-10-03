@@ -6,19 +6,21 @@
 🌱 I’m currently improving my Flutter and Laravel skills.  
 👯 I'm looking for challenging projects that push my limits and enhance my skills.
 💬 Ask me about anything, I will help if I can.  
-📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/your-linkedin)  
+📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/godbless-palouki-1aa9812a0/)  
 😄 Pronouns: he/him.
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer! .  
 👨‍ I love real-world problem solving.  
-🫱🏼‍🫲🏾 Connect with me:  
-[1er lien](https://github.com/ptchindou)  
-[deuxieme](https://github.com/tchindoualaise)  
-[troisieme](https://github.com/tchindoualaise02)  
-[quatrieme](https://github.com/tchindou)
 
-## 🛠️ My Favorite Tools
+<summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
+<p align="left">
+<a href="https://www.linkedin.com/in/godbless-palouki-1aa9812a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ptchindou" height="30" width="40" /></a>
+</p>
 
-### 👨‍💻 Programming and Markup Languages
+
+<summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
  <p>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -31,7 +33,8 @@
       <a href="https://github.com/search?q=user%3Atchindou+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white""></a>
   </p>
 
-### 🧰 Frameworks and Libraries
+  <h3>🧰 Frameworks and Libraries</h3>
+
 
   <p>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
@@ -41,7 +44,7 @@
   </p>
   
 
-### 🗄️ Databases, Cloud & Hosting
+  <h3>🗄️ Databases, Cloud & Hosting</h3>
 
   <p>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
@@ -52,7 +55,7 @@
   </p>
 
 
-### 💻 Software and Tools
+<h3>💻 Software and Tools</h3>
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
