@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Programming and Markup Languages
 
-            [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />][okçavas]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />][okçavas]
           
 - CSS
 - HTML
