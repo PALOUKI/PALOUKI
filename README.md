@@ -1,6 +1,5 @@
 # Hi, I'm PALOUKI Godbless!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+on+my+github;I'm+a+passionate+developer;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev%2C.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github;I'm+a+passionate+developer;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev%2C.)](https://git.io/typing-svg)
 
 
