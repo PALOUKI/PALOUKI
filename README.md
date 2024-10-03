@@ -1,36 +1,6 @@
 # Hi, I'm PALOUKI Godbless!
 
 # Welcome on my Github
-![text machin](https://github.com/PALOUKI/machin-text)
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Typewriter Effect</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
-</head>
-<body>
-    <h1 id="typewriter" style="color: orange;"></h1>
-    <script>
-        new Typed('#typewriter', {
-            strings: [
-                "Welcome to my GitHub!", 
-                "I'm a passionate developer,", 
-                "Sofware and Engineering student,",
-                "flutter and laravel app dev !",
-        ],
-            typeSpeed: 50,
-            backSpeed: 25,
-            loop: true
-        });
-    </script>
-</body>
-</html>
-
-
-
 
 🔭 I’m currently working on multiple projects .  
 🌱 I’m currently improving my Flutter and Laravel skills.  
@@ -49,6 +19,9 @@
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming and Markup Languages
+
+            [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />][okçavas]
+          
 - CSS
 - HTML
 - JavaScript
