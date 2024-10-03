@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev.)](https://git.io/typing-svg)
 
 
-🔭 I’m currently working on multiple projects .  
-🌱 I’m currently improving my Flutter and Laravel skills.  
-👯 I'm looking for challenging projects that push my limits and enhance my skills.
+🔭 currently working on multiple projects .  
+🌱 currently improving my Flutter and Laravel skills.  
+👯 looking for challenging projects that push my limits and enhance my skills.
 💬 Ask me about anything, I will help if I can.  
 📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/godbless-palouki-1aa9812a0/)  
 😄 Pronouns: he/him.
