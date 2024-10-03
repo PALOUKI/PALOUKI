@@ -72,8 +72,11 @@
 
 
 <summary><h2>📊 Github Stats and Activity</h2></summary> 
-
-![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+        ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=radical)
 
@@ -81,5 +84,12 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
+      
+</p>
+</details>
+
+<hr/>
+
+
 
 You can check out my [portfolio here](https://your-portfolio-link).
