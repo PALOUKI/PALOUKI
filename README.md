@@ -66,7 +66,7 @@
   </p>
 
 
-## 📊 GitHub Stats and Activity
+<summary><h2>📊 Github Stats and Activity</h2></summary> 
 
 ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=radical)
