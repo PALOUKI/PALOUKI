@@ -5,12 +5,12 @@
 
 🔭 currently working on multiple projects .  
 🌱 currently improving my Flutter and Laravel skills.  
-👯 looking for challenging projects that push my limits and enhance my skills.
-💬 Ask me about anything, I will help if I can.  
+👯 looking for challenging projects that push my limits and enhance my skills.\
+💬 Interested in android and web development.  
 📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/godbless-palouki-1aa9812a0/)  
 😄 Pronouns: he/him.
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer! .  
-👨‍ I love real-world problem solving.  
+👨‍ Passionate with problem solving and daily routines automation.  
 
 <summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
 <p align="left">
