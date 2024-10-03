@@ -13,7 +13,7 @@
 👨‍ I love real-world problem solving.  
 
 <summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
-<p align="center">
+<p align="left">
   <a href="mailto:paloukigidbless39@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/godbless-palouki-1aa9812a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
