@@ -7,7 +7,7 @@
 🌱 currently improving my Flutter and Laravel skills.  
 👯 looking for challenging projects that push my limits and enhance my skills.\
 💬 Interested in android and web development.  
-📫 How to reach me: on my [LinkedIn page](https://www.linkedin.com/in/godbless-palouki-1aa9812a0/)  
+📫 How to reach me: on my [GMAIL](paloukigidbless39@gmail.com)  
 😄 Pronouns: he/him.
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer! .  
 👨‍ Passionate with problem solving and daily routines automation.  
