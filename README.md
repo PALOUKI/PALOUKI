@@ -27,19 +27,24 @@
 
 Voici quelques langages que je maîtrise :
 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="Markdown" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/svg.png" alt="SVG" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/xml.png" alt="XML" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="50" height="50"/>
+# Langages de Programmation
+
+Voici quelques langages que je maîtrise :
+
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/markdown.png" alt="Markdown" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/svg.png" alt="SVG" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/xml.png" alt="XML" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50" style="border-radius: 10%;"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="50" height="50" style="border-radius: 10%;"/>
+
 
           
           
