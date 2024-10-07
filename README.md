@@ -96,5 +96,8 @@
 <hr/>
 
 
+<img src="https://widgetbite.com/stats/palouki" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=PALOUKI" alt="palouki"> 
+
+
 
 You can check out my [portfolio here](https://your-portfolio-link).
