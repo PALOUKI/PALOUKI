@@ -9,7 +9,7 @@
 💬 Interested in android and web development.  
 📫 How to reach me: on my [GMAIL](mailto:paloukigidbless39@gmail.com)  
 😄 Pronouns: he/him.\
-🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer! .  
+🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !  
 👨‍ Passionate with problem solving and daily routines automation.  
 
 <hr/>
@@ -75,8 +75,6 @@
 <hr/>
 
 <summary><h2>📊 Github Stats and Activity</h2></summary> 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
 <p>
 
@@ -90,7 +88,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
        
 </p>
-</details>
 
 
 <hr/>
