@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev.)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
-🔭 currently working on multiple projects .  
-🌱 currently improving my Flutter and Laravel skills.  
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
+🌱 currently improving my Flutter and Laravel skills.\
 👯 looking for challenging projects that push my limits and enhance my skills.\
-💬 Interested in android and web development.  
-📫 How to reach me: on my [GMAIL](mailto:paloukigidbless39@gmail.com)  
+💬 Interested in android and web development.\  
+📫 How to reach me: on my [GMAIL](mailto:paloukigidbless39@gmail.com)\  
 😄 Pronouns: he/him.\
-🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !  
+🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !\  
 👨‍ Passionate with problem solving and daily routines automation.  
 
 <hr/>
