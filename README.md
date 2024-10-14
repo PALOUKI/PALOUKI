@@ -7,9 +7,9 @@
 👯 looking for challenging projects that push my limits and enhance my skills.<br>
 💬 Interested in android and web development.<br>
 📫 How to reach me: on my [GMAIL](mailto:paloukigidbless39@gmail.com)<br> 
-😄 Pronouns: he/him.\
-🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !\  
-👨‍ Passionate with problem solving and daily routines automation.  
+😄 Pronouns: he/him.<br>
+🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
+👨‍ Passionate with problem solving and daily routines automation. <br> 
 
 <hr/>
 <summary><h2>🫱🏼‍🫲🏾 Connect with me</h2></summary>
