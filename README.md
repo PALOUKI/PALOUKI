@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-  <b style="font-size: 40px; font-weight: bold;">Hi, I'm PALOUKI Godbless!</b> 
+  <span style="font-weight: bold; font-size: larger;">Hi, I'm PALOUKI Godbless!</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 
