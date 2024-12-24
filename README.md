@@ -1,12 +1,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  <span style="font-size: 24px; font-weight: bold;">Hi, I'm PALOUKI Godbless!</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
 
-<h2 align="center">Hi, I'm PALOUKI Godbless!</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-</p>
 
 
 
