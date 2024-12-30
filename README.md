@@ -1,8 +1,12 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
-  Hi, I'm PALOUKI Godbless
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+    Hi, I'm PALOUKI Godbless
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+  </h1>
+  <img src="https://komarev.com/ghpvc/?username=PALOUKI" alt="palouki">
+</div>
+
 
 
 
@@ -103,7 +107,7 @@
 
 
 <hr/>
-<img src="https://widgetbite.com/stats/palouki" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=PALOUKI" alt="palouki"> 
+<img src="https://widgetbite.com/stats/palouki" alt="watching_count" /> 
 
 
 <!--You can check out my [portfolio here](https://your-portfolio-link).-->
