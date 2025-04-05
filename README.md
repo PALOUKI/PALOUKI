@@ -105,8 +105,4 @@
        
 </p>
 
-
-<hr/>
-<img src="https://widgetbite.com/stats/palouki" alt="watching_count" /> 
-
 <!--You can check out my [portfolio here](https://your-portfolio-link).-->
