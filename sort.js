@@ -1,1 +1,0 @@
-let names = ["Ama", "Afi"]
