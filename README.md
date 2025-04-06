@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev.)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
-🌱 currently improving my Flutter and Laravel skills. <br>
+🌱 currently improving my Flutter, Laravel and VueJs skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br>
 💬 Interested in android and web development.<br>
 📫 How to reach me: on my <span><strong><a href="mailto:paloukigidbless39@gmail.com">GMAIL</a></strong></span>.  <br>
