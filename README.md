@@ -86,15 +86,17 @@
 </details>
 <summary></summary> 
   <br/>
-<p>
+  
 
+  
+<details>
+<summary><h2>🏆 GitHub Trophies</h2></summary>
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
 
+</details>
+<summary></summary> 
 
-
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
        
-</p>
+
 
 <!--You can check out my [portfolio here](https://your-portfolio-link).-->
