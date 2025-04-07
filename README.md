@@ -85,11 +85,9 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=radical)
 </details>
   <br/>
-  
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
-
 </details>
  
 
