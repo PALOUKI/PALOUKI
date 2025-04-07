@@ -86,8 +86,6 @@
 </details>
   <br/>
   
-
-  
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
