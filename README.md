@@ -75,28 +75,20 @@
   </p>
 
 
-<h3>💻 Software and Tools</h3>
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <!--<a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>-->
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <!--<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?logo=visual-studio-code&logoColor=white"></a>-->
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-
 <hr/>
 
-<summary><h2>📊 Github Stats and Activity</h2></summary> 
+<details>
+<summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=radical)
+</details>
+<summary></summary> 
   <br/>
 <p>
 
-![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=radical)
+
 
 
 
