@@ -77,12 +77,6 @@
 
 <hr/>
 
-
-<summary><h2>📊 Github Stats and Activity</h2></summary> 
-
-[![ReadMe Card](https://github.com/palouki/tic_tac_toe_game)](https://github.com/palouki/tic_tac_toe_game)
-
-
 <details>
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
