@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Welcome+on+my+github+!;I'm+a+passionate+developer,;Software+Engineering+Student%2C;Flutter+and+laravel+app+dev.)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
-🌱 currently improving my Flutter, Laravel and VueJs skills. <br>
+🌱 currently improving my Flutter, Laravel, Spring Boot and VueJs skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br>
 💬 Interested in android and web development.<br>
 📫 How to reach me: on my <span><strong><a href="mailto:paloukigidbless39@gmail.com">GMAIL</a></strong></span>.  <br>
@@ -50,15 +50,14 @@
       <a href="https://github.com/search?q=user%3Atchindou+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white""></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🧰 Frameworks</h3>
 
 
   <p>
       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
       <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vue.js&logoColor=%234FC08D"></a>
-      <!--<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>-->
   </p>
   
 
