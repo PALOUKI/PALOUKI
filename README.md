@@ -87,7 +87,7 @@
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palouki&theme=tokyonight&layout=compact" alt="tchindou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palouki&theme=tokyonight&layout=compact" alt="palouki" /></a> </p>
 </details>
  
 
