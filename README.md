@@ -79,14 +79,17 @@
 <details>
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=radical)
+  ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=tokyonight&layout=compact)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=tokyonight&layout=compact)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=tokyonight&layout=compact
 </details>
   <br/>
 <details>
 <summary><h2>🏆 GitHub Trophies</h2></summary>
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PALOUKI&theme=radical)
+  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palouki&theme=tokyonight&layout=compact" alt="tchindou" /></a> </p>
 </details>
  
 
