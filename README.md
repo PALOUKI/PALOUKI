@@ -76,14 +76,14 @@
 
 <hr/>
 
-<details>
-<summary><h2>📊 Github Stats and Activity</h2></summary>
+
+<h2>📊 Github Stats and Activity</h2>
 
   ![PALOUKI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PALOUKI&show_icons=true&theme=tokyonight&layout=compact)  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PALOUKI&theme=tokyonight&layout=compact)
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PALOUKI&show_icons=true&theme=tokyonight&layout=compact)
 
-</details>
+
   <br/>
     <p align="center" >
     <picture>
