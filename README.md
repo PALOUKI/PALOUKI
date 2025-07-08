@@ -18,7 +18,7 @@
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0"> 
 🌱 currently improving my Flutter, Laravel, Spring Boot and VueJs skills. <br>
 👯 looking for challenging projects that push my limits and enhance my skills.<br>
-💬 Interested in android and web development.<br>
+💬 Interested in android, desktop and web development.<br>
 📫 How to reach me: on my <span><strong><a href="mailto:paloukigidbless39@gmail.com">GMAIL</a></strong></span>.  <br>
 😄 Pronouns: he/him.<br>
 🚀 Fun fact: Just like the best of Silicon Valley, I’m on a mission to innovate and create top-notch solutions as a developer !<br> 
